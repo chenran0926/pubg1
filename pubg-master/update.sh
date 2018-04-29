@@ -28,8 +28,8 @@ cd libpcap-1.8.1
 make
 make install
 
-git clone https://github.com/xiaogei/pubg.git
-cd pubg/
+git clone https://github.com/chenran0926/pubg1/blob/master/pubg-master.git
+cd pubg1/blob/master/pubg-master/
 npm i
 npm i -g pino
 npm install -g forever
